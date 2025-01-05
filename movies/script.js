@@ -14,3 +14,5 @@ document.getElementById(
 ).innerText = `Release Date: ${movieData.releaseDate}`;
 document.getElementById("description").innerText = movieData.description;
 document.getElementById("movie-pic").src = movieData.posterUrl;
+
+console.log("welcome to movies website :)))))");
